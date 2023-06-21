@@ -1,0 +1,5 @@
+endpoints:
+  - name: "google"
+    address: "8.8.8.8"
+  - name: "cloudflare"
+    address: "1.1.1.1"
