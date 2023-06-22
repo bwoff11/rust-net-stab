@@ -1,4 +1,4 @@
-# Network Stability Monitor (net-stab)
+# Rust Network Stability Monitor (rust-net-stab)
 
 Rust Network Stability Monitor (or `rust-net-stab` for short) is a small, efficient, and easy-to-use utility that monitors the stability of your network by continuously pinging a set of configured endpoints. It also exposes metrics compatible with Prometheus, allowing you to track and visualize the network stability over time.
 
